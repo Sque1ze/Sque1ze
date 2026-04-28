@@ -1,33 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1f2933,100:ffffff&height=220&section=header&text=Oksana%20👩‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img width="760" src="assets/eye.gif" alt="void eye" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;ASP.NET+Core+%7C+React;Clean+Architecture;Building+Modern+Web+Apps+🚀" />
+<br>
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=420&lines=fractured+%E2%80%A2+time+%E2%80%A2+void;full-stack+developer;building+things+from+the+dark" />
 
----
+<br><br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Java-050505?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-050505?style=flat&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-050505?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-050505?style=flat&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-050505?style=flat&logo=dotnet&logoColor=white" />
 
-### 🌙 Minimal • Clean • Dark • Premium
+<br><br>
 
-</div>
+<img src="https://img.shields.io/badge/MySQL-050505?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-050505?style=flat&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-050505?style=flat&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-050505?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-050505?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-050505?style=flat&logo=css3&logoColor=white" />
 
----
+<br><br>
 
-## 🧠 About Me
-
-```csharp
-class Developer
-{
-    string name = "Oksana";
-    string role = "Full-Stack Developer";
-
-    string[] stack = {
-        ".NET", "C#", "ASP.NET Core",
-        "React", "JavaScript", "SQL Server"
-    };
-
-    string focus = "Clean Architecture & Modern UI";
-}
+```txt
+Your life has gone out and will not be lit again.
