@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="760" src="assets/eye.gif" alt="void eye" />
+<img src="https://raw.githubusercontent.com/Squelze/Squelze/main/assets/eye.gif" width="700" />
 
 <br>
 
