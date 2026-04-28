@@ -25,5 +25,6 @@
 
 <br><br>
 
-```txt
-Your life has gone out and will not be lit again.
+<code>Your life has gone out and will not be lit again.</code>
+
+</div>
