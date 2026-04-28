@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Squelze/Squelze/main/assets/eye.gif" width="700" />
+![eye](./assets/eye.gif)
 
 <br>
 
